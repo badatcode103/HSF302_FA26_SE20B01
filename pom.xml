@@ -8,10 +8,10 @@
         <version>4.1.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.example</groupId>
-    <artifactId>HSF302_ClassProject_1</artifactId>
+    <groupId>fe.de190686</groupId>
+    <artifactId>Chapter1-jpa-basic</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>HSF302_ClassProject_1</name>
+    <name>chapter1-jpa-basic</name>
     <description>HSF302_ClassProject_1</description>
     <url/>
     <licenses>
