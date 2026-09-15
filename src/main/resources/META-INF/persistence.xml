@@ -6,7 +6,8 @@
 
     <persistence-unit name="company" transaction-type="RESOURCE_LOCAL">
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
-        <!--class>org.example.hsf302_classproject_1.pojo.Employee</class-->
+        <class>org.fa26.de190686.pojo.Employee</class>
+        <class>org.fa26.de190686.pojo.Department</class>
         <!-- D:\Project Folder\HSF302_ClassProject_1\src\main\java\org\example\hsf302_classproject_1\pojo\Employee.java-->
         <properties>
             <!-- Database connection info -->
